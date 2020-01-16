@@ -28,6 +28,8 @@
     $database = "veritabani_adi";
 ```
 - Settings dizini içinde bulunan "siber_kamp.sql" adlı dosyayı veritabanına yüklemek yeterli olacaktır.
+- [XAMPP'i Linux veya windows üzerine indirmek için tıklayınız](https://www.apachefriends.org/tr/download.html "to install xampp") 
+- [XAMPP'in nasıl kurulduğunu öğrenmek için tıklayınız](https://www.wikihow.com/Install-XAMPP-for-Windows "How to Install XAMPP") 
 
 ## Uygulama içi görseller
 
